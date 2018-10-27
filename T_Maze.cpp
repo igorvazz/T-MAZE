@@ -1,6 +1,6 @@
 /*
-  Morse.cpp - Library for flashing Morse code.
-  Created by David A. Mellis, November 2, 2007.
+  T_Maze.h - Library for controlling an automated T-Maze.
+  Created by Igor S. Vaz, October 25, 2018.
   Released into the public domain.
 */
 
