@@ -8,4 +8,5 @@ and actuators were used; all controlled using the Arduino platform. The labyrint
 rewards system were developed using SketchUp drawing software. The goal of this project is to develop an open-hardware 
 T-maze, which can be replicated by other research centers using only simple machining and 3D printing.
 
-There are 5 trainning mode for the rats, which are separated in 5 files.
+There are 5 trainning mode for the rats, which can be selected through a keypad and a LCD Display.
+It was developed Library for the project (T_Maze.h).
