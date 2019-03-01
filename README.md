@@ -9,4 +9,13 @@ rewards system were developed using SketchUp drawing software. The goal of this 
 T-maze, which can be replicated by other research centers using only simple machining and 3D printing.
 
 There are 5 trainning mode for the rats, which can be selected through a keypad and a LCD Display.
-It was developed Library for the project (T_Maze.h).
+It was developed Library for the project (T_Maze.h). An overview of the device can be seen at Fig 1:
+
+<a>
+    <div style="margin: 20px;">
+        <p align="middle">
+            <img width="70%" src="./t-maze-overview.jpg"/>
+            <h5 style="color:black;" align="middle">Figure 1 - 3D CAD visualizattion from the device</h5>
+        </p>
+    </div>
+</a>
