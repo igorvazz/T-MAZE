@@ -14,7 +14,7 @@ It was developed Library for the project (T_Maze.h). An overview of the device c
 <a>
     <div style="margin: 20px;">
         <p align="middle">
-            <img width="70%" src="./t-maze-overview.jpg"/>
+            <img width="70%" src="./T-MAZE.jpg"/>
             <h5 style="color:black;" align="middle">Figure 1 - 3D CAD visualizattion from the device</h5>
         </p>
     </div>
